@@ -517,6 +517,7 @@ img { max-width: 100%; display: block; }
   color: var(--color-text);
   font-weight: 500;
 
+  min-width: 0;
   overflow-wrap: break-word;
 }
 
